@@ -1,3 +1,4 @@
+https://docs.google.com/spreadsheets/d/1Go3uBYEiglVTKT_tb-b_wFFpHltQEAYFu_Y2oALWq3o/edit#gid=481937324
 	http://www.himalayandatabase.com/2013%20Season%20Lists/2013%20Spring%20A1.html															
 Identifier	Location	Day	Time of Ascent	Time of Death	Name	Female	Sherpa	Nationality								
 1	Ama Dablam	May 10	15:00		Ms. Michaela Landl (Austria)	M		Austria	Ms.	Michaela	Landl	(Austria)				
